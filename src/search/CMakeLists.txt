@@ -888,6 +888,7 @@ create_fast_downward_library(
         landmarks/landmark_factory_rpg_exhaust
         landmarks/landmark_factory_rpg_sasp
         landmarks/landmark_factory_zhu_givan
+        landmarks/landmark_factory_zhu_givan_actions
         landmarks/landmark_graph
         landmarks/landmark_heuristic
         landmarks/landmark_status_manager
